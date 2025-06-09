@@ -1,2 +1,2 @@
-# BCC-UFABC
-Códigos desenvolvidos em aula entre junho e setembro de 2024
+# UFABC
+Códigos que eu desenvolvi nas matérias de Bases Computacionais da Ciência e Processamento da Informação da UFABC
